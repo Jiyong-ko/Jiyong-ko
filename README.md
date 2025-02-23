@@ -3,6 +3,10 @@
 <!--
 **Jiyong-ko/Jiyong-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Jiyong-ko"/>
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
